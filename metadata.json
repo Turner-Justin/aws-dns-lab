@@ -1,0 +1,8 @@
+{
+  "title": "AWS DNS Lab",
+  "description": "A beginner-friendly DNS setup using Route53 and EC2 for hybrid name resolution.",
+  "tags": ["AWS", "Networking", "Linux"],
+  "image": "diagram.png",
+  "repo_url": "https://github.com/justinturner/aws-dns-lab",
+  "date": "2025-11-07"
+}
