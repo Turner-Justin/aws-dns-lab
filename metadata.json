@@ -5,5 +5,9 @@
   "tags": ["AWS", "Networking", "Linux"],
   "image": "diagram.png",
   "repo_url": "https://github.com/Turner-Justin/aws-dns-lab",
-  "date": "2025-11-07"
+  "date": "2025-11-07",
+
+  "is_demoable": false,
+  "demo_type": null,
+  "demo_duration_minutes": 10
 }
